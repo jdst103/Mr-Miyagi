@@ -1,15 +1,15 @@
-#MrMiyagi
+#Mr Miyagi
 
 The program has programmed response depending on what the user is asking. The questions can be asked again until user wants to quit to which he can insert the required phrase to kill the program. Also created similar program using functions.
 
-##Learning outcomes:
+## Learning outcomes:
 Git
 Github
 created README.md as markdown file.
 Similar to exercise 108 and 107. Created a program to advice student. This involved using learning control flows and loops.
 
 
-##INSTRUCTIONS:
+## INSTRUCTIONS:
 
 Ask for user input and depending on the response, Mr Miyagi will respond.
 
